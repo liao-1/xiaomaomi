@@ -195,6 +195,10 @@ var index_config_default = {
         address: "https://vnzyz.com/api.php/provide/vod"
       },
       {
+        name: "👖🔞裤佬丨日常丨采集",
+        address: "http://zhangqun1818.serv00.net/cjjh.php"
+      },
+      {
         name: "👖🔞裤佬丨155丨采集",
         address: "https://155api.com/api.php/provide/vod/?ac=list"
       },
@@ -223,11 +227,23 @@ var index_config_default = {
         address: "https://apiyutu.com/api.php/provide/vod"
       },
       {
+        name: "👖🔞裤佬丨湿乐园丨采集",
+        address: "https://xxavs.com/api.php/provide/vod/"
+      },
+      {
         name: "👖🔞裤佬丨奶香丨采集",
         address: "https://naixxzy.com/api.php/provide/vod"
       },
       {
+        name: "👖🔞裤佬丨精品丨采集",
+        address: "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
+      },
+      {
         name: "👖🔞裤佬丨乐播丨采集",
+        address: "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/"
+      },
+      {
+        name: "👖🔞裤佬丨无尽丨采集",
         address: "https://lbapi9.com/api.php/provide/vod"
       },
       {
