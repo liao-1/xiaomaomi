@@ -64,90 +64,178 @@ var index_config_default = {
     urls: [{ address: "https://danmuapi-ten-iota.vercel.app", name: "默认服务器" }],
     autoPush: false
   },
- t4: {list: [
-    {name: "✈️关注TG频道@stymei",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"},
-    {name: "👖裤佬丨电视丨直播",
-      address: "http://zhangqun1818.serv00.net/zh/2242.php"},
-    {name: "👖裤佬丨瓜子丨JS",
-      address: "https://newtv.ggff.net/guazi?token=MRdKQtZ4"},
-    {name: "👖裤佬丨瓜子丨PY",
-      address: "https://learnpython.ggff.net/gzysStymei"},
-    {name: "👖裤佬丨瓜子丨PHP",
-      address: "https://catbox.n13.club/ai/瓜子影视.php"},
-    {name: "👖裤佬丨红果丨短剧",
-      address: "https://catbox.n13.club/ai/红果短剧.php"},
-    {name: "👖裤佬丨旺旺丨短剧",
-      address: "http://zhangqun1818.serv00.net/ww.php"},
-    {name: "👖裤佬丨永乐丨影视",
-      address: "https://newtv.ggff.net/yongle?token=MRdKQtZ4"},
-    {name: "👖裤佬丨欧乐丨影视",
-      address: "https://newtv.ggff.net/oule?token=MRdKQtZ4"},
-    {name: "👖裤佬丨荐片丨影视",
-      address: "https://newtv.ggff.net/jianpian?token=MRdKQtZ4"},
-    {name: "👖裤佬丨ikbot丨影视",
-      address: "https://newtv.ggff.net/ikanbot?token=MRdKQtZ4"},
-    {name: "👖裤佬丨剧吧丨影视",
-      address: "https://newtv.ggff.net/jubaba?token=MRdKQtZ4"},
-    {name: "👖裤佬丨奇优丨影视",
-      address: "https://newtv.ggff.net/uvod?token=MRdKQtZ4"},
-    {name: "👖裤佬丨爱瓜丨影视",
-      address: "https://newtv.ggff.net/aigua?token=MRdKQtZ4"},
-    {name: "👖裤佬丨3Q丨影视",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=3q影视"},
-    {name: "👖裤佬丨Emby丨WebDAV",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=emby"},
-    {name: "👖裤佬丨凤凰丨FM",
-      address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"},
-    {name: "👖裤佬丨采集丨聚合",
-      address: "http://zhangqun1818.serv00.net/cj/cjjh.php"},
-    {name: "👖裤佬丨JS丨聚合",
-      address: "http://zhangqun1818.serv00.net/js.php"},
-    {name: "👖裤佬丨PY丨聚合",
-      address: "http://zhangqun1818.serv00.net/py.php"},
-    {name: "👖裤佬丨PHP丨聚合",
-      address: "http://zhangqun1818.serv00.net/php.php"},
-    {name: "👖🔞裤佬丨中国丨大秀",
-      address: "https://learnpython.ggff.net/zgdxStymei"},
-    {name: "👖🔞裤佬丨欧美丨大秀",
-      address: "https://learnpython.ggff.net/cam4"},
-    {name: "👖🔞裤佬丨俄国丨大秀",
-      address: "https://learnpython.ggff.net/elsdxStymei"},
-    {name: "👖🔞裤佬丨51丨吃瓜",
-      address: "https://learnpython.ggff.net/51xiG"},
-    {name: "👖🔞裤佬丨黑料丨吃瓜",
-      address: "https://learnpython.ggff.net/HLBTY"},
-    {name: "👖🔞裤佬丨爆料丨吃瓜",
-      address: "https://learnpython.ggff.net/blcgStymei"},
-    {name: "👖🔞裤佬丨EPO丨爬虫",
-      address: "https://learnpython.ggff.net/epo"}
-]},
-  cms: {list: [
-{name: "👖🔞裤佬丨麻花丨采集",
-address: "https://19q.cc/api.php/provide/vod"},
-{name: "👖🔞裤佬丨杏吧丨采集",
-address: "https://xingba111.com/api.php/provide/vod/?ac=list"},
-{name: "👖🔞裤佬丨越南丨采集",
-address: "https://vnzyz.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨细胞丨采集",
-address: "https://www.xxibaozyw.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨91AV丨采集",
-address: "https://91av.cyou/api.php/provide/vod"},
-{name: "👖🔞裤佬丨小鸡丨采集",
-address: "https://api.xiaojizy.live/provide/vod"},
-{name: "👖🔞裤佬丨大奶丨采集",
-address: "https://apidanaizi.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨仓库丨采集",
-address: "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json"},
-{name: "👖🔞裤佬丨玉兔丨采集",
-address: "https://apiyutu.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨奶香丨采集",
-address: "https://naixxzy.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨乐播丨采集",
-address: "https://lbapi9.com/api.php/provide/vod"},
-{name: "👖🔞裤佬丨幸源丨采集",
-address: "https://xzybb1.com/api.php/provide/vod"}
-]},
+  t4: {
+    list: [
+      {
+        name: "✈️关注TG频道@stymei",
+        address: "http://zhangqun1818.serv00.net:6628/?spider=独播库"
+      },
+      {
+        name: "👖裤佬丨电视丨直播",
+        address: "http://zhangqun1818.serv00.net/zh/2242.php"
+      },
+      {
+        name: "👖裤佬丨瓜子丨JS",
+        address: "https://newtv.ggff.net/guazi?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨瓜子丨PY",
+        address: "https://learnpython.ggff.net/gzysStymei"
+      },
+      {
+        name: "👖裤佬丨瓜子丨PHP",
+        address: "https://catbox.n13.club/ai/瓜子影视.php"
+      },
+      {
+        name: "👖裤佬丨红果丨短剧",
+        address: "https://catbox.n13.club/ai/红果短剧.php"
+      },
+      {
+        name: "👖裤佬丨旺旺丨短剧",
+        address: "http://zhangqun1818.serv00.net/ww.php"
+      },
+      {
+        name: "👖裤佬丨永乐丨影视",
+        address: "https://newtv.ggff.net/yongle?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨欧乐丨影视",
+        address: "https://newtv.ggff.net/oule?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨荐片丨影视",
+        address: "https://newtv.ggff.net/jianpian?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨ikbot丨影视",
+        address: "https://newtv.ggff.net/ikanbot?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨剧吧丨影视",
+        address: "https://newtv.ggff.net/jubaba?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨奇优丨影视",
+        address: "https://newtv.ggff.net/uvod?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨爱瓜丨影视",
+        address: "https://newtv.ggff.net/aigua?token=MRdKQtZ4"
+      },
+      {
+        name: "👖裤佬丨3Q丨影视",
+        address: "http://zhangqun1818.serv00.net:6628/?spider=3q影视"
+      },
+      {
+        name: "👖裤佬丨Emby丨WebDAV",
+        address: "http://zhangqun1818.serv00.net:6628/?spider=emby"
+      },
+      {
+        name: "👖裤佬丨凤凰丨FM",
+        address: "http://zhangqun1818.serv00.net:6628/?spider=凤凰fm"
+      },
+      {
+        name: "👖裤佬丨采集丨聚合",
+        address: "http://zhangqun1818.serv00.net/cj/cjjh.php"
+      },
+      {
+        name: "👖裤佬丨JS丨聚合",
+        address: "http://zhangqun1818.serv00.net/js.php"
+      },
+      {
+        name: "👖裤佬丨PY丨聚合",
+        address: "http://zhangqun1818.serv00.net/py.php"
+      },
+      {
+        name: "👖裤佬丨PHP丨聚合",
+        address: "http://zhangqun1818.serv00.net/php.php"
+      },
+      {
+        name: "👖🔞裤佬丨中国丨大秀",
+        address: "https://learnpython.ggff.net/zgdxStymei"
+      },
+      {
+        name: "👖🔞裤佬丨欧美丨大秀",
+        address: "https://learnpython.ggff.net/cam4"
+      },
+      {
+        name: "👖🔞裤佬丨俄国丨大秀",
+        address: "https://learnpython.ggff.net/elsdxStymei"
+      },
+      {
+        name: "👖🔞裤佬丨51丨吃瓜",
+        address: "https://learnpython.ggff.net/51xiG"
+      },
+      {
+        name: "👖🔞裤佬丨黑料丨吃瓜",
+        address: "https://learnpython.ggff.net/HLBTY"
+      },
+      {
+        name: "👖🔞裤佬丨爆料丨吃瓜",
+        address: "https://learnpython.ggff.net/blcgStymei"
+      },
+      {
+        name: "👖🔞裤佬丨EPO丨爬虫",
+        address: "https://learnpython.ggff.net/epo"
+      }
+    ]
+  },
+  cms: {
+    list: [
+      {
+        name: "👖🔞裤佬丨麻花丨采集",
+        address: "https://19q.cc/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨杏吧丨采集",
+        address: "https://xingba111.com/api.php/provide/vod/?ac=list"
+      },
+      {
+        name: "👖🔞裤佬丨越南丨采集",
+        address: "https://vnzyz.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨155丨采集",
+        address: "https://155api.com/api.php/provide/vod/?ac=list"
+      },
+      {
+        name: "👖🔞裤佬丨细胞丨采集",
+        address: "https://www.xxibaozyw.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨91AV丨采集",
+        address: "https://91av.cyou/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨小鸡丨采集",
+        address: "https://api.xiaojizy.live/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨大奶丨采集",
+        address: "https://apidanaizi.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨仓库丨采集",
+        address: "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json"
+      },
+      {
+        name: "👖🔞裤佬丨玉兔丨采集",
+        address: "https://apiyutu.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨奶香丨采集",
+        address: "https://naixxzy.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨乐播丨采集",
+        address: "https://lbapi9.com/api.php/provide/vod"
+      },
+      {
+        name: "👖🔞裤佬丨幸源丨采集",
+        address: "https://xzybb1.com/api.php/provide/vod"
+      }
+    ]
+  },
   alist: [
     {
       name: "🐉神族九帝",
